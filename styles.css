@@ -290,7 +290,7 @@ body.dark .theme-toggle-global {
 
 /* Темна тема */
 body.dark {
-  background: #121212;
+  background: #1c2842;
   color: #f0f0f0;
 }
 body.dark .sidebar,
